@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-see https://relaxed-agnesi-2a93e7.netlify.com to play with the app live on the web
+see https://relaxed-agnesi-2a93e7.netlify.com to play with the app live on the web . The app is very similar to the one 
+here https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
